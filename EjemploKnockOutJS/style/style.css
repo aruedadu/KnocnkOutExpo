@@ -1,0 +1,23 @@
+.countrycontainer {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    background-color: white;
+    border: 1px solid gray;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    max-width: 280px;
+}
+body{
+    background-color: #adadad;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 18px;
+}
+.capital
+{
+    color: darkgray;
+    font-size: 14px;
+}
